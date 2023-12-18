@@ -24,11 +24,17 @@ public class DemoProviderModule extends NativeDemoProviderSpec {
   }
 
   private static native double nativeMultiply(double a, double b);
+  private static native double nativeAdd(double a, double b);
 
   // Example method
   // See https://reactnative.dev/docs/native-modules-android
   @Override
   public double multiply(double a, double b) {
     return nativeMultiply(a, b);
+  }
+
+  @Override
+  public double add(double a, double b) {
+    return nativeAdd(a, b);
   }
 }
