@@ -943,7 +943,7 @@ PODS:
   - React-Mapbuffer (0.73.0):
     - glog
     - React-debug
-  - react-native-demo-provider (0.1.3):
+  - react-native-demo-provider (0.1.4):
     - glog
     - hermes-engine
     - RCT-Folly (= 2022.05.16.00)
@@ -1416,7 +1416,7 @@ SPEC CHECKSUMS:
   React-jsitracing: c4f0d56beda781bc3ce6e3594c9f7117f04b37a1
   React-logger: 008caec0d6a587abc1e71be21bfac5ba1662fe6a
   React-Mapbuffer: 58fe558faf52ecde6705376700f848d0293d1cef
-  react-native-demo-provider: 689d0dfc4849e5143be9208c8058f10b2eee647e
+  react-native-demo-provider: d411ccc6cbf7f3d8886515213b9cb7c172772a30
   React-nativeconfig: a063483672b8add47a4875b0281e202908ff6747
   React-NativeModulesApple: 169506a5fd708ab22811f76ee06a976595c367a1
   React-perflogger: b61e5db8e5167f5e70366e820766c492847c082e
